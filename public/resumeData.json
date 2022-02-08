@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Jennifer Ehala",
+    "occupation": "Full Stack Developer",
+    "description": "I eat, sleep and breathe coding",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Jennifer! As a Full Stack developer I've worked on professional projects to help build full CRUD applications. My past experience in pubclic health helped me realise my passion existed in manipulating and creating data. With this passion, I have now created multiple projects ranging from non-profit projects to commerical applications. Through many hours of training, I have accumulated several developer skills in a wide range of cool builds and challenges. I deliver REAL VALUE by creating REAL WORLD projects to help customers build and scale their websites. You’ll get an experienced developer with the skills that are required to create excellent and efficient solutions to modern problems.",
+    "contactmessage": "Get in touch with me !",
+    "email": "jennifer.ehala@gmail.com",
+    "phone": "862-888-3106",
+    "address": {
+      "street": "",
+      "city": "Mt. Laurel",
+      "state": "New Jersey",
+      "zip": "08054"
+    },
+    "website": "https://www.jenniferehala.com",
+    "resumedownload": "https://docs.google.com/document/d/1hl8tNQqL_SzlvsMsC949jbRI3ljzzvps26M1bLu4JIk/edit",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC_EaXseg8w-eU8q_dZFffUg/playlists",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jenniferehala/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jenniferehala/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jennifer.ehala/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jenniferehala",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Rutgers University",
+        "degree": "Bachelor's Degree, Public Health",
+        "graduated": "July 2016",
+        "description": "Graduated with Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Rowan University",
+        "title": "Data Analyst",
+        "years": "May 2019 - Present",
+        "description": "Reported data findings and analysis for clinical departments and business offices to improve quality patient healthcare. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coding Dojo Clone (React, MongoDB, Express.js, Node.js, Mongoose, CSS/HTML styling)",
+        "category": "",
+        "image": "codingdojo.jpg",
+        "url": "coming soon"
+      },
+      {
+        "title": "Trip Share (Java, Spring Tool Suite, JSP, Bootstrap, and CSS)",
+        "category": "",
+        "image": "tripshare.jpg",
+        "url": "coming soon"
+      },
+      {
+        "title": "BookReads (Python, HTML5/CSS3, MySQL database)",
+        "category": "",
+        "image": "bookreads.jpg",
+        "url": "coming soon"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non justo eu turpis faucibus scelerisque. Sed tincidunt leo in lobortis dignissim.",
+        "user": "Example 1"
+      },
+      {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non justo eu turpis faucibus scelerisque. Sed tincidunt leo in lobortis dignissim.",
+        "user": "Example 2"
+      }
+    ]
+  }
+}
