@@ -50,7 +50,8 @@
       {
         "school": "Rutgers University",
         "degree": "Bachelor's Degree, Public Health",
-        "description": "Graduated with Honours"
+        "description": "Graduated with Honours",
+        "graduated": "May 2014"
       }
     ],
     "work": [
@@ -90,25 +91,29 @@
         "title": "Coding Dojo Clone (React, MongoDB, Express.js, Node.js, Mongoose, CSS/HTML styling)",
         "category": "",
         "image": "codingdojo.jpg",
-        "url": "coming soon"
+        "url": "coming soon",
+        "git": ""
       },
       {
         "title": "Trip Share (Java, Spring Tool Suite, JSP, Bootstrap, and CSS)",
         "category": "",
         "image": "tripshare.jpg",
-        "url": "coming soon"
+        "url": "coming soon",
+        "git": ""
       },
       {
         "title": "BookReads (Python, HTML5/CSS3, MySQL database)",
         "category": "",
         "image": "bookreads.jpg",
-        "url": "coming soon"
+        "url": "http://44.201.196.119/dashboard",
+        "git": "https://github.com/jenniferehala/bookreads/tree/main"
       },
       {
         "title": "AirBNB Clone (Node.js)",
-        "category": "",
+        "category": " Code: https://github.com/jenniferehala/airbnbclone",
         "image": "airbnb.png",
-        "url": "https://airbnb-clone-92ed9.web.app/"
+        "url": "https://airbnb-clone-92ed9.web.app/",
+        "git": "https://github.com/jenniferehala/airbnbclone"
       }
     ]
   },

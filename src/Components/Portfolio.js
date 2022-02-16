@@ -6,6 +6,7 @@ const Portfolio = ({ data }) => {
       var projectImage = "images/portfolio/" + projects.image;
       return (
         <div key={projects.title} className="columns portfolio-item">
+
           <div className="item-wrap">
             <a href={projects.url} title={projects.title}>
               <img alt={projects.title} src={projectImage} />
@@ -19,7 +20,12 @@ const Portfolio = ({ data }) => {
                 <i className="fa fa-link"></i>
               </div>
             </a>
+
           </div>
+          <br></br>
+          <a href={projects.git}>Github Code</a>
+
+
         </div>
       );
     });
