@@ -7,7 +7,7 @@
     "bio": "Hi there! I am Jennifer! As a Full Stack developer, I've worked on professional projects to help build full CRUD applications. My past experience in public health helped me realize my passion existed in manipulating and creating data. With this passion, I have now created multiple projects ranging from non-profit projects to commerical applications. Through many hours of training, I have accumulated several developer skills in a wide range of cool builds and challenges. I deliver REAL VALUE by creating REAL WORLD projects to help customers build and scale their websites. You’ll get an experienced developer with the skills that are required to create excellent and efficient solutions to modern problems.",
     "contactmessage": "Get in touch with me !",
     "email": "jennifer.ehala@gmail.com",
-    "phone": "862-888-3106",
+    "phone": "856-441-0559",
     "address": {
       "street": "",
       "city": "Mt. Laurel",
@@ -15,7 +15,7 @@
       "zip": "08054"
     },
     "website": "https://www.jenniferehala.com",
-    "resumedownload": "https://docs.google.com/document/d/1hl8tNQqL_SzlvsMsC949jbRI3ljzzvps26M1bLu4JIk/edit",
+    "resumedownload": "https://docs.google.com/document/d/1jmkCrME03TlgZQE8WUtjJ2SyJ2SCUWk5YUeKjkGXvFU/edit",
     "social": [
       {
         "name": "youtube",
@@ -92,14 +92,14 @@
         "category": "",
         "image": "codingdojo.jpg",
         "url": "coming soon",
-        "git": ""
+        "git": "https://github.com/Dianka759/CodingDojoClone"
       },
       {
         "title": "Trip Share (Java, Spring Tool Suite, JSP, Bootstrap, and CSS)",
         "category": "",
         "image": "tripshare.jpg",
         "url": "coming soon",
-        "git": ""
+        "git": "https://github.com/Dianka759/Java/tree/main/Project"
       },
       {
         "title": "BookReads (Python, HTML5/CSS3, MySQL database)",
